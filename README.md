@@ -1,1 +1,3 @@
 # PlayTranceAthena
+
+npm run start
